@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93421371410",
+    "project_id": "mynotes-bayuhadileksana",
+    "storage_bucket": "mynotes-bayuhadileksana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93421371410:android:dd4858084b6e452c8a18cb",
+        "android_client_info": {
+          "package_name": "com.bayuhadi.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1xDljtU5aTqRfqKjhgujNS3R1LPVdrnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
